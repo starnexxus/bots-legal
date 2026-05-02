@@ -13,9 +13,9 @@ Todo o código, design, logotipos, nomes e funcionalidades presentes no StarNexx
 
 ## 4. Política de Uso Aceitável
 Você concorda em NÃO utilizar o Bot para:
-• Gerar spam, *flooding* ou conteúdo ofensivo/prejudicial.
-• Tentar contornar sistemas de segurança, engenharia reversa ou explorar vulnerabilidades do Bot.
-• Utilizar o Bot para coletar dados de usuários sem consentimento.
+• Gerar spam, *flooding* ou conteúdo ofensivo/prejudicial.<br>
+• Tentar contornar sistemas de segurança, engenharia reversa ou explorar vulnerabilidades do Bot.<br>
+• Utilizar o Bot para coletar dados de usuários sem consentimento.<br>
 • Assediar, intimidar ou promover discurso de ódio.
 
 ## 5. Limitação de Responsabilidade
