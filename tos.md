@@ -12,7 +12,7 @@ O uso do StarNexxus é permitido apenas para usuários que cumpram os Termos de 
 Todo o código, design, logotipos, nomes e funcionalidades presentes no StarNexxus são de propriedade exclusiva do desenvolvedor, salvo indicação em contrário. Você possui uma licença limitada, não exclusiva e intransferível para utilizar as funcionalidades do Bot conforme disponibilizadas.
 
 ## 4. Política de Uso Aceitável
-Você concorda em NÃO utilizar o Bot para:
+Você concorda em NÃO utilizar o Bot para:<br>
 • Gerar spam, *flooding* ou conteúdo ofensivo/prejudicial.<br>
 • Tentar contornar sistemas de segurança, engenharia reversa ou explorar vulnerabilidades do Bot.<br>
 • Utilizar o Bot para coletar dados de usuários sem consentimento.<br>
