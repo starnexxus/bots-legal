@@ -5,4 +5,4 @@ Seja bem-vindo à página de transparência do StarNexxus. Aqui você encontra t
 - [Termos de Serviço](tos.md)
 - [Política de Privacidade](privacy.md)
 
-Para suporte, entre em contato conosco via E-mail: starnexxus.discord@gmail.com
+Para suporte, você pode entrar em contato conosco via e-mail clicando [aqui](starnexxus.discord@gmail.com).
