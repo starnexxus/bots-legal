@@ -3,7 +3,7 @@
 Última atualização: 02 de maio de 2026.
 
 ## 1. Introdução
-Bem-vindo ao StarNexxus. Ao adicionar, acessar ou utilizar o Bot em qualquer servidor Discord, você declara estar ciente e concordar integralmente com estes Termos de Serviço ("Termos"). Caso não concorde com qualquer disposição aqui contida, você deve remover o Bot do seu servidor imediatamente.
+Bem-vindo ao StarNexxus. Ao adicionar, acessar ou utilizar o Bot em qualquer servidor Discord, você declara estar ciente e concordar integralmente com estes Termos de Serviço. Caso não concorde com qualquer disposição aqui contida, você deve ignorar o bot em servidores terceiros e remover o Bot do seu servidor imediatamente, se estiver em servidor de própria posse.
 
 ## 2. Elegibilidade e Condições de Uso
 O uso do StarNexxus é permitido apenas para usuários que cumpram os Termos de Serviço do Discord. O Bot não deve ser utilizado para fins ilegais, automação não autorizada, ou qualquer atividade que infrinja a integridade da plataforma Discord ou de terceiros.
